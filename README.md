@@ -1,2 +1,2 @@
 # CMP656
-Project
+CMP656 term project repo
